@@ -1,0 +1,32 @@
+body{
+	background: #fce7a7;
+	color:#5e2e24;
+	font-family: cursive;
+}
+#try{
+	color:#ffffff;
+	background:#f73b64; 
+}
+#barnav{
+	color:#ffffff;
+	background:#f73b64; 
+}
+
+#headerp{
+	font-weight: bold;
+	color:#ffffff;
+	background:#f73b64; 
+    }
+
+#top-heading{
+	font-weight: bold;
+	font-family: cursive;
+}
+
+#chicken,#beef,#sushi{
+	font-family: cursive;
+}
+
+#nav-list{
+	background:#d6816f;
+}
